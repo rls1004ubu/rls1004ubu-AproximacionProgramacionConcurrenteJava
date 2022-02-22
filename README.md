@@ -15,3 +15,7 @@ Para ello se van a realizar 5 casos de estudio:
 Los requisitos software que se van a necesitar para realizar los casos de estudio son:
   • Eclipse IDE for Java Developers, http://www.eclipse.org/downloads/
   • VisualVM incluida en jdk versión 6 o superiores
+
+Actualmente este proyecto no está terminado.
+
+Toda la documentación del proyecto se encuenta en Wiki en distintas páginas.
